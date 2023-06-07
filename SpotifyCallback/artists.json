@@ -1,0 +1,31 @@
+[
+  // Comments are removed before parsing this JSON file
+  //{
+  //  "Artist": "Lebanon Hanover",
+  //  "Id": "6w8h2uD28BEdg7bX4k3Lh7"
+  //},
+  //{
+  //  "Artist": "Selofan",
+  //  "Id": "1StVGGYOC5FM3aNpJQ74Vj"
+  //},
+  //{
+  //  "Artist": "Boy Harsher",
+  //  "Id": "2Gs4t6zBT69DSluLvaEBWK"
+  //},
+  //{
+  //  "Artist": "Haunt",
+  //  "Id": "0xc6gzkeMKN1R3cAkEKCK6"
+  //}
+  //{
+  //  "Artist": "Forever Grey",
+  //  "Id": "3HSpbkijRqVAa1bn0hyEfz"
+  //},
+  //{
+  //  "Artist": "NNHMN",
+  //  "Id": "3PFLYlaguMd2AXu1i3UAKt"
+  //},
+  {
+    "Artist": "The KVB",
+    "Id": "0BzJFLqchxKNQyEwswwQ40"
+  }
+]
